@@ -30,3 +30,4 @@ With [CAI Neural API](https://github.com/joaopauloschuler/neural-api), a neural 
     ]);
   end;
 ```
+At this point in time, there is no efficient GPU implementation for pascal. Although the model name is **GPT-3 Small**, training this model requires large amounts of RAM and CPU power.
